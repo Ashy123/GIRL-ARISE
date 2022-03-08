@@ -1,0 +1,12 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+background {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  background-image: url(./background/images.jpg);
+  background-size: cover;
+  background-position: center;
+}
