@@ -1,12 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Spartan:wght@300&display=swap");
+
+body {
+  font-family: "Spartan", sans-serif;
+}
+.logo {
+  margin-bottom: 0px;
+}
+.top {
+  margin-top: 0px;
+  font-size: 25px;
+}
+
 body {
   margin: 0px;
   padding: 0px;
-}
-background {
   margin: 0;
   height: 100vh;
   display: flex;
-  background-image: url(./background/images.jpg);
+  width: 400px;
   background-size: cover;
   background-position: center;
+  background-image: url('Images/girlchild.jpep');
+  color: white;
+}
+.logo {
+  display: flex;
+  margin-top: 50px;
+}
+.logo2 {
+    height: 100px;
+    width: 100px;
+}
+
+.w3-hide-small {
+  margin-top: 50px;
+}
+
+img {
+  margin-left: 60px;
+  margin-right: 160px;
+}
+.paragraph {
+  height: 200px;
+  width: 100px;
+}
+.top {
+    display: flex;
+}
+a{
+    height: 60px;
+    margin-right: 40px;
 }
